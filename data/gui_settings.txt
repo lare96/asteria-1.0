@@ -1,0 +1,18 @@
+[drop] true
+[trade] true
+[pickup] true
+[shop] true
+[devmode] false
+[betamode] false
+[livestats] false
+- smithing
+- fletching
+- agility
+- thieving
+- pathfinding/following/combat
+- wilderness levels/multicombat
+- redesign
+      - mob class
+      - mob dialogues
+      - skills
+      - teleporting
